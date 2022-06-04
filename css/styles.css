@@ -18,11 +18,11 @@ a:hover {
 }
 
 .academics {
-    position: relative;
+/*     position: relative; */
     border-radius: 100%;
     float: right;
     margin-left: 0;
-    top: 20px;
+/*     top: 20px; */
     max-width: 25%;
 }
 
