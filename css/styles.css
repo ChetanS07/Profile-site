@@ -124,8 +124,10 @@ hr {
 }
 
 .mountain {
-    width: 80rem;
-    height: 26.125rem;
+   /* width: 80rem;
+    height: 26.125rem; */
+    width : 800px;
+    height : 280px;
     margin-bottom: 20px;
     position: relative;
     right: 10px;
