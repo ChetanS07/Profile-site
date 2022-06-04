@@ -23,7 +23,7 @@ a:hover {
     float: right;
     margin-left: 0;
     top: 20px;
-    width: 25%;
+    max-width: 25%;
 }
 
 body {
@@ -71,7 +71,7 @@ body {
     float: left;
     border-radius: 100%;
     margin-right: 30px;
-    width: 25%;
+    max-width: 25%;
 }
 
 .cloud1 {
@@ -164,7 +164,7 @@ span {
 .skill-row {
     margin: auto;
     text-align: left;
-    width: 50%;
+    max-width: 50%;
 }
 
 .trademark {
