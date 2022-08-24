@@ -32,10 +32,6 @@ body {
     text-align: center;
 }
 
-html{
-    margin:0px 0px 0px 0px;
-}
-
 .btn {
     background: #2cc4c9;
     background-image: -webkit-linear-gradient(top, #2cc4c9, #23bed9);
@@ -66,7 +62,7 @@ html{
 .bottom-container {
     text-align: center;
     margin-bottom: 0px;
-    padding: 50px;
+    padding: 60px;
     height: 100px;
     background-color: #51c4c0;
 }
